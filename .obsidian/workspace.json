@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "57b125917bb0caee",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ca37d6bbf785f29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d9740a6b580ac08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "523153439f578bd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repertório.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Repertório"
+            }
+          },
+          {
+            "id": "0d183589dc48ffcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Banco de Repertório.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Banco de Repertório"
+            }
+          },
+          {
+            "id": "f16ae39e19ab9cc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Banco de Repertório.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Banco de Repertório"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "b3b8f4501cb98052",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1c25b9181fb2747",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Banco de Repertório.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Banco de Repertório"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50dc58022c00111d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcfcfc5dfe632e91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c64f6af012ecfa4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "595e0b3ba8c54167",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#nostalgico",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "79e50656dcc29205",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bcaa63b0353d5dda",
+    "type": "split",
+    "children": [
+      {
+        "id": "021431e20410afa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f70cc2fdb5299e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Repertório.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Repertório"
+            }
+          },
+          {
+            "id": "6deb412caa930473",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Repertório.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Repertório"
+            }
+          },
+          {
+            "id": "988c4f2b3d2da4b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "220ecf1e60d66782",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Repertório.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Repertório"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b1c25b9181fb2747",
+  "lastOpenFiles": [
+    "Repertório/Na Fila/Velha Infância.md",
+    "Repertório/Na Fila/Dia Especial.md",
+    "Repertório/Modelo.md",
+    "Repertório/Já No Canal/Sapato Velho.md",
+    "Repertório/Já No Canal/A Viagem.md",
+    "Curso de Canal Cover no Youtube/Estrutura do Curso.md",
+    "Curso de Canal Cover no Youtube/Temas/Como gerar palavras-chave MATADORAS para o seu canal.md",
+    "Curso de Canal Cover no Youtube/Temas/Com essas ferramentas, seu canal vai tirar nota MÁXIMA no SEO do YouTube.md",
+    "Curso de Canal Cover no Youtube/Temas/Você NÃO deve se preocupar com a qualidade do seu vídeo aqui.md",
+    "Curso de Canal Cover no Youtube/Temas/Você é AMADOR, e isso é maravilhoso.md",
+    "Curso de Canal Cover no Youtube/Temas",
+    "Repertório/Na Fila/O Mundo É Um Moinho.md",
+    "Banco de Repertório.md",
+    "Repertório/Já No Canal/Oceano.md",
+    "Repertório/Já No Canal/Caju.md",
+    "Repertório/Já No Canal/Pais e Filhos.md",
+    "Repertório/Já No Canal/Beija-Flor.md",
+    "Sapato Velho (Roupa Nova).md",
+    "Repertório/Na Fila",
+    "Repertório/Já No Canal",
+    "Repertório",
+    "Repertório",
+    "Welcome.md",
+    "create a link.md",
+    "Curso de Canal Cover no Youtube"
+  ]
+}
