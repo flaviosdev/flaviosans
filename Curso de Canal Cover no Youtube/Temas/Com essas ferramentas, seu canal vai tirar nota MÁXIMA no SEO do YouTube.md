@@ -1,2 +1,0 @@
-* VidIQ
-* Procura outras kkkkkkkk

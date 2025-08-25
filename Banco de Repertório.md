@@ -13,6 +13,7 @@
 - [ ] [[O Mundo É Um Moinho|O Mundo É Um Moinho (Cartola)]]
 - [ ] A Força do Amor (Roupa Nova)
 - [ ] Canção da América (Milton Nascimento)
+- [ ] Depois do Prazer (Só Pra Contrariar)
 - [ ] Poema (Ney Matogrosso)
 - [ ] O Segundo Sol (Cássia Eller)
 - [ ] Baile das Máscaras (Rosa de Saron)
@@ -42,6 +43,7 @@
 
 - [ ] Folhetim (Chico Buarque)
 - [ ] Amor de índio
+- [ ] Codinome Beija-Flor (Cazuza)
 - [ ] Atrás da Porta (Chico Buarque)
 - [ ] Encontros e Despedidas (Milton Nascimento)
 - [ ] Sangrando (Gonzaguinha)
