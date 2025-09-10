@@ -1,0 +1,3 @@
+- Não saia gastando com equipamentos por aí
+- Não coloque uma meta absurda de postagens por semana
+	- Algo factível, mesmo que pareça pouco

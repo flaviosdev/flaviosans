@@ -1,0 +1,3 @@
+* Digite na caixa de pesquisa do youtube e use as sugestões
+* Use o chatGPT
+* 
